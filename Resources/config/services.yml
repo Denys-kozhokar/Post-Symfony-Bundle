@@ -1,0 +1,4 @@
+services:
+#    denis_my.example:
+#        class: Denis\MyBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

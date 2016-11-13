@@ -1,0 +1,7 @@
+denis_my_post:
+    resource: "@DenisMyBundle/Resources/config/routing/post.yml"
+    prefix:   /post
+
+denis_my_homepage:
+    path:     /
+    defaults: { _controller: DenisMyBundle:Default:index }
